@@ -20,6 +20,10 @@
 
 ---
 
+> 🌱 **¿Primera vez con agentes?** Antes del curso, haz la [guía del proyecto sencillo](guia-proyecto-sencillo/01-guia-mi-primer-agente.md): un asistente de tareas en 4 archivos (1 hora).
+
+---
+
 ## 1. ¿Qué vamos a construir?
 
 Una plataforma llamada **MyAgent AI**. Es un programa que puede:
